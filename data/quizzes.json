@@ -1,0 +1,4800 @@
+[
+  {
+    "id": "0",
+    "questions": [
+      {
+        "id": "0bafce4a-112d-4ca7-95da-55f87f6e946a",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "1",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "1"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "15eef71a-285f-4730-8c3e-2f80c5e8cbe9",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "1",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "1"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "5eb9e2ea-fdfe-4f97-96ad-82cc3ecfde20",
+        "question": "What is 1?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "40a1c69a-b71c-4f79-8c40-318a51560662",
+        "question": "What is Cell?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "1",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "7fade182-845c-4090-94b0-fbde9933b664",
+        "question": "What is 1?",
+        "choices": [
+          "1",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "1",
+          "1"
+        ],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "questions": [
+      {
+        "id": "998c63da-6505-4978-b1b0-f49ed0de3723",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "ATP",
+          "1",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "04d642b5-6495-4371-82c1-989bd6c6fbcd",
+        "question": "What is 1?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "1",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "ec7ecf20-ec0b-4a2b-bb4e-5a5d7526d406",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "aa87f8a4-f9e8-4a47-87f2-c522b9c8cc6e",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "ATP"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "0b5cb5cf-3516-4828-9b11-510b15ede2e0",
+        "question": "What is 1?",
+        "choices": [
+          "1",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "1"
+        ],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "questions": [
+      {
+        "id": "3e7d5409-e416-418c-814c-cf316fcb5bea",
+        "question": "(Correct) What is the difference between an object and an external force?",
+        "choices": [
+          "All of the above",
+          "None of the above",
+          "Not sure",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass."
+        ],
+        "correct_answer": "The acceleration of an object depends on the net force acting upon it and the object's mass."
+      },
+      {
+        "id": "7eb6fc9e-96bd-4d8b-88c1-6ed2659c9c4c",
+        "question": "(Correct) What is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "All of the above",
+          "Not sure",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "None of the above"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "2576417a-543f-4439-aa72-8e61f5b85c38",
+        "question": "(Correct) What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+        "choices": [
+          "All of the above",
+          "None of the above",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Not sure"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+      },
+      {
+        "id": "ad0ebe29-8d40-43f5-81bb-622657f6afc6",
+        "question": "(Correct) What is the process by which a parent cell divides into two or more daughter cells?",
+        "choices": [
+          "All of the above",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Not sure",
+          "None of the above"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "2605c827-d89d-4ce1-ae0d-85371d628404",
+        "question": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water.",
+        "choices": [
+          "Not sure",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "None of the above",
+          "All of the above"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "questions": [
+      {
+        "id": "00ae4d16-dc0d-45a0-8bf4-1200ff127740",
+        "question": "Question: Which of the following is TRUE?",
+        "choices": [
+          "Not sure",
+          "All of the above",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "None"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "8e2e853d-415e-4ce3-9672-73531a3ef675",
+        "question": "Question: Cell division is the process by which a parent cell divides into two or more daughter cells _ .Options:A is the process by which a parent cell divides into two or more daughter cellsB is the process by which a parent cell divides into two or more daughter cellsC is the process by which a parent cell divides into two or more daughter cellsD is the process by which a parent cell divides into two or more daughter cellsA is the process by which a parent cell divides into two or more daughter cellsA?",
+        "choices": [
+          "None",
+          "All of the above",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "Not sure"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "0a679889-49bd-43e0-bc50-b0c96692e2f2",
+        "question": "Question: Which of the following is TRUE?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "All of the above",
+          "Not sure",
+          "None"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "14f0b235-c8f0-4143-95b6-18952597ad87",
+        "question": "Question: Which of the following is TRUE?",
+        "choices": [
+          "None",
+          "Not sure",
+          "All of the above",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+      },
+      {
+        "id": "7c3e06b0-ff70-47b3-8498-d529adaf2513",
+        "question": "Question: Which of the following is the best way to synthesize carbon dioxide and water?",
+        "choices": [
+          "None",
+          "All of the above",
+          "Not sure",
+          "carbon dioxide and water"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "questions": [
+      {
+        "id": "0870c1a3-cc67-43af-a6e7-9af3da3563fd",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "photosynthesis",
+          "energy required for all cellular activities.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "19bb731d-d5ec-4d74-8df4-9a530888995e",
+        "question": "Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells.?",
+        "choices": [
+          "object if it is not acted upon by an object .",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "glucose",
+          "1"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "2fe1d8ea-883e-4edd-8296-469afe997044",
+        "question": "Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells. Question: Cell division is the process by which a parent cell divides into two or more daughter cells.?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells",
+          "3.",
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "8f525a1c-5c00-4e09-a6ad-aed7a3eaa6b7",
+        "question": "_ is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products.?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water",
+          "3.",
+          "chlorophyll",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "c69447d2-6804-4920-b3f8-d3f21d80ff43",
+        "question": "_ is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products.?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "3.",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "questions": [
+      {
+        "id": "1",
+        "question_text": "Cells convert glucose and oxygen into _ .",
+        "answer": "glucose"
+      },
+      {
+        "id": "2",
+        "question_text": "The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water is called _ .",
+        "answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "3",
+        "question_text": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and _ as a by-product.",
+        "answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+      },
+      {
+        "id": "4",
+        "question_text": "The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water is called _ .",
+        "answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "5",
+        "question_text": "The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water is called _ .",
+        "answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "questions": [
+      {
+        "id": "1",
+        "question_text": "The energy required for all cellular activities is _ .",
+        "answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "2",
+        "question_text": "Cell division is the process by which a parent cell divides into two or more cells. The answer: cell division.",
+        "answer": "cell division"
+      },
+      {
+        "id": "3",
+        "question_text": "The reaction of carbon dioxide and water is called the reaction of _ .",
+        "answer": "carbon dioxide and water"
+      },
+      {
+        "id": "4",
+        "question_text": "Cell division is the process by which a parent cell divides into two or more daughter cells. The answer: cell division.",
+        "answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "questions": [
+      {
+        "id": "1",
+        "question_text": "Cell division is the process by which a parent cell divides into two or more daughter cells. The answer: cell division.",
+        "answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "2",
+        "question_text": "The first letter of a letter is _ .",
+        "answer": "1"
+      },
+      {
+        "id": "3",
+        "question_text": "The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water is called _ .",
+        "answer": "Photosynthesis is the process by which green plants and some other organisms use \nsunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "4",
+        "question_text": "Cell division is the process by which a parent cell divides into two or more daughter cells. The answer: cell division.",
+        "answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "questions": [
+      {
+        "id": "358cf133-a691-4e77-a7f2-fe5d7980e32d",
+        "question": "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+        "choices": [
+          "All of the above",
+          "Not sure",
+          "None of the above",
+          "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more \ndaughter cells"
+      },
+      {
+        "id": "d37160a3-481b-4606-8159-20a09f6c8866",
+        "question": "Glucose.b Glucose.C Glucose.d",
+        "choices": [
+          "All of the above",
+          "None of the above",
+          "What is essential for growth, repair, and reproduction in living organisms?Options: Glucose.B Glucose.C Glucose.D Glucose.nswer:D",
+          "Not sure"
+        ],
+        "correct_answer": "What is essential for growth, repair, and reproduction in living organisms?Options: Glucose.B Glucose.C Glucose.D Glucose.nswer:D"
+      },
+      {
+        "id": "9e616589-6bcc-4749-aaa8-b1bd3ed14a57",
+        "question": "(Correct) What is required for all cellular activities?",
+        "choices": [
+          "energy required for all cellular activities.",
+          "None of the above",
+          "All of the above",
+          "Not sure"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "8a5c1827-3317-4f61-a583-5a023489ec1f",
+        "question": "(Representation) What is the most important factor in the development of external force?",
+        "choices": [
+          "All of the above",
+          "Not sure",
+          "None of the above",
+          "external force"
+        ],
+        "correct_answer": "external force"
+      },
+      {
+        "id": "bf94a296-f36a-46f0-a50a-56a1a0dfbbbb",
+        "question": "If a person is resting, what does he or she do when he or she is resting?",
+        "choices": [
+          "object if it is not acted upon by an object .",
+          "Not sure",
+          "All of the above",
+          "None of the above"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "questions": [
+      {
+        "id": "d1cb505e-b0ea-4522-95e5-a3c123d279c1",
+        "question": "Which of the following is not a sign of respiration: respiration, respiration, or respiration?",
+        "choices": [
+          "All of the above",
+          "Respiration",
+          "Not sure",
+          "None"
+        ],
+        "correct_answer": "Respiration"
+      },
+      {
+        "id": "2b8d0c55-6933-49b9-be7c-b27f45c1820e",
+        "question": "Question: Which of the following is TRUE?",
+        "choices": [
+          "None",
+          "Not sure",
+          "All of the above",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+      },
+      {
+        "id": "6af1a6a4-2218-471b-8781-db198eae2139",
+        "question": "Question: What is the process by which a parent cell divides into two or more?",
+        "choices": [
+          "All of the above",
+          "None",
+          "Not sure",
+          "cell division"
+        ],
+        "correct_answer": "cell division"
+      },
+      {
+        "id": "b69edf24-aad5-4937-8388-7889e0793467",
+        "question": "Question: Cell division is the process by which a parent cell divides into two or more daughter cells?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "None",
+          "All of the above",
+          "Not sure"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "b37aa75d-e6a9-4b57-9395-5f0d457dc405",
+        "question": "Question: Which of the following is TRUE?",
+        "choices": [
+          "All of the above",
+          "None",
+          "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products",
+          "Not sure"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into \nenergy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "questions": []
+  },
+  {
+    "id": "12",
+    "questions": []
+  },
+  {
+    "id": "13",
+    "questions": []
+  },
+  {
+    "id": "14",
+    "questions": []
+  },
+  {
+    "id": "15",
+    "questions": [
+      {
+        "id": "86b476f9-eaff-403e-a8de-a6b7cca40a5b",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water",
+          "None of the above",
+          "All of the above",
+          "Both A and B"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "67812990-9ffc-4670-ba9b-8d8169bee934",
+        "question": "What is 1?",
+        "choices": [
+          "1",
+          "None of the above",
+          "All of the above",
+          "Both A and B"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "3cce2dca-806b-407c-9c6f-354d1d3e8b64",
+        "question": "What is a characteristic of a living organism?",
+        "choices": [
+          "organisms",
+          "None of the above",
+          "All of the above",
+          "Both A and B"
+        ],
+        "correct_answer": "organisms"
+      },
+      {
+        "id": "89d560cf-00d0-4dd2-8a19-6f9ae984c06d",
+        "question": "What is the most important factor in the development of external force?",
+        "choices": [
+          "external force",
+          "None of the above",
+          "All of the above",
+          "Both A and B"
+        ],
+        "correct_answer": "external force"
+      },
+      {
+        "id": "bfd4a94b-239b-4742-917d-843621dbcc64",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cells",
+          "None of the above",
+          "All of the above",
+          "Both A and B"
+        ],
+        "correct_answer": "cells"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "questions": [
+      {
+        "id": "a6960ec2-6b87-4365-b1ea-29e4a0e6999a",
+        "question": "(Correct) What is the process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "glucose",
+          "glucose",
+          "glucose",
+          "glucose"
+        ],
+        "correct_answer": "What is the process in which cells convert glucose and oxygen into glucose?"
+      },
+      {
+        "id": "0f0d4da6-1b47-4f4d-9806-e0b68c4c06aa",
+        "question": "(Correct) Which of the following statements is true about the acceleration of an object?",
+        "choices": [
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass."
+        ],
+        "correct_answer": "Which of the following statements is true about the acceleration of an object?"
+      },
+      {
+        "id": "95a4e02f-c591-4161-a2dc-55ce3290431f",
+        "question": "What is 1?",
+        "choices": [
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "48348505-cadc-499e-a308-37fbab9f762f",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cells",
+          "cells",
+          "cells",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "b8743891-dd6f-4b1a-8783-ea69969fdbad",
+        "question": "(Correct) Which of the following is not a measure of waste?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products"
+        ],
+        "correct_answer": "Which of the following is not a measure of waste?"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "questions": [
+      {
+        "id": "edfe0416-3392-4e44-906f-421d38ef3f55",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "38c1c850-a047-404f-97b3-6e02f91039f6",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+          "photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "289e3dd6-2a48-4104-9729-fb14231f288a",
+        "question": "What is a characteristic of a living organism?",
+        "choices": [
+          "object.",
+          "cells",
+          "organisms"
+        ],
+        "correct_answer": "organisms"
+      },
+      {
+        "id": "007c5748-4ef8-4037-a284-6a65e93d0607",
+        "question": "What is the main idea of this note?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+          "What",
+          "is"
+        ],
+        "correct_answer": "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?"
+      },
+      {
+        "id": "ddfd918e-b76a-42c3-bccf-a667a60de0c8",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon dioxide and water as waste products",
+          "carbon"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "questions": [
+      {
+        "id": "3b15afff-7df4-458a-bf7e-bcce9aa4a37e",
+        "question": "What is the mass of an object?",
+        "choices": [
+          "object.",
+          "force of gravity being exerted upon it.",
+          "mass"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "id": "7cc59296-a888-4198-81a9-9fbb28694c81",
+        "question": "What is the function of an object in a straight line if acted upon by an object in a straight line?",
+        "choices": [
+          "object if it is not acted upon by an object .",
+          "object.",
+          "object"
+        ],
+        "correct_answer": "object."
+      },
+      {
+        "id": "ace0a999-0dcb-47c2-bb16-18ff66412720",
+        "question": "What is the most important factor in the development of external force?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "external force",
+          "external",
+          "force"
+        ],
+        "correct_answer": "external force"
+      },
+      {
+        "id": "d934b83a-5b20-4326-9eb7-ba202df6df1b",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "7f4e6c3f-0a8e-42b4-b7a8-14124cba2009",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "photosynthesis",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "questions": [
+      {
+        "id": "68d0b8fc-98e8-40df-8278-caf670edfe38",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "photosynthesis",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "70195b95-990e-42db-91dd-40e09d92e86a",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cell division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "c09e8920-99a0-47ba-939c-b9ee9f21166a",
+        "question": "What is the process by which a parent cell divides into two or more daughter cells?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell",
+          "division"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "bbace4e3-811e-4474-8672-42701fe22eb6",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "bd3cb4f8-7679-4fcc-a53c-2167ed4a5f02",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "1",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "questions": [
+      {
+        "id": "da29d1a9-f864-4a8b-914d-30f9f472d671",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "photosynthesis",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "08ab1348-c82a-47a0-96b0-0c9cb18379c1",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "a679efe9-ff40-451a-b99a-7eefc891d579",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "8ff3c166-730c-4918-8f10-a2385f86aa99",
+        "question": "What is the function of an object in a straight line if acted upon by an object in a straight line?",
+        "choices": [
+          "object if it is not acted upon by an object .",
+          "object.",
+          "object"
+        ],
+        "correct_answer": "object."
+      },
+      {
+        "id": "2f1e52a7-cd89-4fab-ac4c-78362d2d0eeb",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "questions": [
+      {
+        "id": "2710607a-373e-4a5b-9700-f856bf2c346c",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "8c2367cd-53e8-499c-9ae4-6ab9ed799eb9",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "8abd804b-3da6-44b2-ae3c-55242e6e13a5",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "b0cb1d89-c69b-4329-bf2a-40967a22f381",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "1",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "78712e74-cb05-4bc0-bfff-0e2e2dcfe458",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "questions": [
+      {
+        "id": "1cb89e76-dada-4896-a5d7-9b99ee86cb6f",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "d0d904af-2f8d-4321-a81f-fb454f62cde9",
+        "question": "Which of the following statements is true about the acceleration of an object?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The",
+          "acceleration"
+        ],
+        "correct_answer": "The acceleration of an object depends on the net force acting upon it and the object's mass."
+      },
+      {
+        "id": "1d683865-c295-44ec-9c68-192eb6999747",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy required for all cellular activities.",
+          "energy"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "2a51524d-e472-4e2a-8f2b-101ba1c214ca",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "1",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "1758d5dd-6bbe-450a-b82d-3e3d6360721c",
+        "question": "What is the difference between an object and an external force?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The",
+          "acceleration"
+        ],
+        "correct_answer": "The acceleration of an object depends on the net force acting upon it and the object's mass."
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "questions": [
+      {
+        "id": "3c26e406-c807-486a-b088-f70e6be01752",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "12693ada-df6d-473e-9b62-a9ef8fccaf72",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "236b18b6-c40d-43b8-a9bf-77d2713642eb",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "1deb22dd-0aa1-4dec-9dfe-d4d92b93cebc",
+        "question": "What is the mass of an object?",
+        "choices": [
+          "object.",
+          "force of gravity being exerted upon it.",
+          "mass"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "id": "d75ff071-9f3f-4945-a0de-883bf4f667e0",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cell division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "questions": [
+      {
+        "id": "820ae31a-3208-498c-b84a-47aef030197f",
+        "question": "What is the mass of an object?",
+        "choices": [
+          "object.",
+          "force of gravity being exerted upon it.",
+          "mass"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "id": "26ec06fc-1247-438e-be8a-34415709b059",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "cb479248-6427-495e-ac30-926670a4d1f4",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "edb302ed-ce88-4fd1-acd1-5e2a2bf9f7e4",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "3.",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "e057a7c4-4b66-479a-918e-e1bc70fdc38e",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "questions": [
+      {
+        "id": "3dade783-39c3-40ea-b98c-d764c4046212",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "690bd3db-db00-480a-88ae-d1f170574638",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "13b0a78d-3f1d-43cf-ab79-fabbb4836e38",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "07bbed4c-0440-4903-a658-d4d4a34aaedf",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "1",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "06c62e0c-00a8-4c91-892f-9da2985fba94",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "force of gravity being exerted upon it.",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "questions": [
+      {
+        "id": "9fceea81-6590-4aa4-b863-90952ff1e337",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      },
+      {
+        "id": "06162eac-acae-46c8-b175-7f6cc20e6b98",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "d9dcdecc-9b5b-4745-8244-2d72dad06cf2",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "1af11585-c290-49a8-9a50-89624a5721cf",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "7f3df983-f025-49a9-8c97-8b515d7edefc",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "questions": [
+      {
+        "id": "d8c04c55-d9c0-49e8-b9e3-a438dd8ff9ef",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "c4179fc4-9221-4911-b1f2-1b04785fa341",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "989e5e0a-8765-4ec4-82e7-d20df690b12b",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "812c2063-37c8-49fa-aa9a-4357918e331a",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "3ff9e29d-2149-4371-8914-334d0c007777",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "questions": [
+      {
+        "id": "fbff6353-1ba8-4c4d-a10e-07144fae79e2",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "e7d0bdbd-9b74-495a-aeb6-32a7183257d6",
+        "question": "What is the main idea of this note?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+          "What",
+          "is"
+        ],
+        "correct_answer": "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?"
+      },
+      {
+        "id": "2a53b5ae-217b-46ce-aa86-1397c4d1e7a8",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "68eec809-182e-47a2-b4d7-77644ca701c2",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "274a2928-bb5a-4640-a737-12e3ca5fef98",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "questions": [
+      {
+        "id": "794e6574-72ac-4079-9bf1-0ec23e21ca71",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "05b04c05-a058-49a0-b706-0a78245fe267",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "c6f1f807-7f3f-44dd-95e2-c439fe7585fe",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "1bb23b5b-64eb-4b3a-9033-e86c4f101b45",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "ea708586-1d38-4724-8e18-b021fdd490b8",
+        "question": "What is the process by which a parent cell divides into two or more?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "cell division",
+          "cell"
+        ],
+        "correct_answer": "cell division"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "questions": [
+      {
+        "id": "673d7f70-4a16-4a24-b262-2223e46f8e84",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "ce8ce034-2c73-4e1a-b4ff-b57d4509a636",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "5469fbe5-f62e-41d0-9b9c-a806bfd4e661",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cell division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "82ff639e-64d3-41f7-a4a4-7fdeb9214e55",
+        "question": "What is the process of releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "ATP"
+        ],
+        "correct_answer": "ATP"
+      },
+      {
+        "id": "c725a4af-0264-45e8-b991-7151d0e2f6f3",
+        "question": "What is the function of an object in a straight line if acted upon by an object in a straight line?",
+        "choices": [
+          "object if it is not acted upon by an object .",
+          "object.",
+          "object"
+        ],
+        "correct_answer": "object."
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "questions": [
+      {
+        "id": "92fce674-8060-4179-87d0-d1db0a97dc7c",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "374dd954-c084-41d0-ac5b-08f6af32fab0",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "b4abdc14-d02e-4e3e-951f-d1b438a0ea60",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "ad45ce35-4a95-4068-8eae-2416e90e0eac",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "06d21688-577a-443e-98ba-341d4c8b20ae",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "questions": [
+      {
+        "id": "6d928abd-3d01-41e3-8e46-9526ba8daaec",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "fda3346a-f8c4-432c-a365-375c1c727aad",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "783b2cd8-5398-4979-90a2-e6da0e0bf7d5",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "3093f5e7-beef-4772-ae68-f4ae46d74ce2",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "3274a40d-1973-4cfc-ad23-4dca33c6d0e7",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "questions": [
+      {
+        "id": "5344e49f-3c5b-4c7d-862f-dc58be6cbca2",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy required for all cellular activities.",
+          "energy",
+          "required"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "0d4ba5df-6012-498a-8be0-d944c74e7a43",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "25c8d62d-0dd8-4d0a-b07a-aa933dc10f0b",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "015c370e-6ff0-41a3-b454-07abdd876c9e",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "ed25f647-5bae-4220-8a0b-f98af633487b",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "questions": [
+      {
+        "id": "7986c3bc-1daf-4e09-9152-ab203bd43280",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "061e0139-89e9-4320-bad5-c7f8aa6b81bf",
+        "question": "What is the most important factor in the development of external force?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "external force",
+          "external",
+          "force"
+        ],
+        "correct_answer": "external force"
+      },
+      {
+        "id": "c44c3bbb-c9ea-41b8-a755-5e1f1288ca85",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "d9545f35-5aba-4a56-a40e-ebf08bdf1f86",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "85313513-16c9-4d94-acfb-8a44a1914d68",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "questions": [
+      {
+        "id": "6116ff39-27fe-45b3-86b8-8d3a5334c90a",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "f8745329-a36c-4b31-8296-18cf39d421a2",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "06cc43a8-3838-4cdf-bafd-e8de574b1164",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "e87bb063-0c06-46f4-8bcb-1f3ae12556dc",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "db426b46-80d8-4733-b436-b38879e01729",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "questions": [
+      {
+        "id": "731b9dcd-4bd2-47f7-ba6c-df5ec9f2c348",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "c71a5107-6ae3-4976-b96a-c22ca892d16a",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "27715ed3-9839-4f7d-9aa6-7da44c3ead9a",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "a05e4f72-0a9d-45ae-a1da-50a253463f47",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy required for all cellular activities.",
+          "energy",
+          "required"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "1647e9ca-b0e0-4853-b544-676fd49221a2",
+        "question": "uestion",
+        "choices": [
+          "organisms",
+          "glucose",
+          "What is essential for growth, repair, and reproduction in living organisms?Options: Glucose.B Glucose.C Glucose.D Glucose.nswer:D",
+          "What"
+        ],
+        "correct_answer": "What is essential for growth, repair, and reproduction in living organisms?Options: Glucose.B Glucose.C Glucose.D Glucose.nswer:D"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "questions": [
+      {
+        "id": "97f336a8-6faf-4674-943e-c46634fa60d1",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "1d75e3d2-6098-479f-a7c7-357a590a2303",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "559905f4-b757-43b6-87e8-c1045c088689",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "ddd482e8-2979-4d06-9672-c74b7bf19c06",
+        "question": "ATP is a measure of what kind of waste?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "0e9944e7-fcb9-4222-af98-5a2c28831b2c",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "questions": [
+      {
+        "id": "579ced8c-ce21-462e-8f3c-c295427047ca",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "a70d52ae-260d-4e51-a2e6-7dec3a232e24",
+        "question": "ATP is a measure of what kind of waste?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "485bd164-43e2-4db2-9f81-487d6d82320d",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "e3fcddb2-e275-424f-8384-1c04c346c8fa",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "ad0b0e43-e7af-45bf-8963-dc5a43d3d2d3",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "questions": [
+      {
+        "id": "d2682e9f-f3dc-44fb-9ea0-3de314e5718c",
+        "question": "What is the most important factor in the development of external force?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "external force",
+          "external",
+          "force"
+        ],
+        "correct_answer": "external force"
+      },
+      {
+        "id": "f36295a2-20b8-4a70-8420-474706d48f72",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "b315fc31-0123-4048-b3c1-d81634ce81c2",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      },
+      {
+        "id": "9c867938-7b44-43d9-a02e-642426a95c18",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "50e59523-4b00-4920-804c-1f96344f97d5",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "questions": [
+      {
+        "id": "e59a2c11-15e3-4691-95f9-0b79aab595a1",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "c98a4173-04a8-4c82-b14e-3480e99f1b66",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "58cb1769-6763-4f63-825a-963a02c38157",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "2f6ea705-2f3e-4cdc-8ded-75b2ec6677ed",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "63ad8083-fea3-4591-8c98-b3d59455356f",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "questions": [
+      {
+        "id": "1078edd1-b9c7-4700-94e0-22197c8f2022",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "80a640fc-37d1-4684-a9f3-63974fcddfb9",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "8f885fcd-18bc-4117-b513-19db597e90fc",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      },
+      {
+        "id": "bfde9ad7-7e20-4d1d-ac51-7147d99daf85",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "29417abd-4694-4144-80d3-60378d1332ee",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "questions": [
+      {
+        "id": "107aadd2-a432-4ab5-bda7-e6825c8e4b3b",
+        "question": "What is the main idea of this note?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+          "What",
+          "is"
+        ],
+        "correct_answer": "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?"
+      },
+      {
+        "id": "717093d0-55eb-4348-871c-cd019cfa573c",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "b11de512-ea44-4b16-afe7-2f6a3195b18b",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "080e14c0-4c3f-4ad5-9090-fb855b006710",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "653d60cf-5594-418f-8b69-6e4c002cb8b6",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "questions": [
+      {
+        "id": "b5f848b7-40c9-4e3b-b24f-1f2e904908d7",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "Cell Division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "25b6171a-8a3d-4ff9-ab21-5deb4a90f1ae",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "9c413728-31b4-448a-9ab9-4693f4def79e",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "b7cb5ef1-71ab-4d15-9993-f72814205541",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "5e70cdbc-9143-4756-a1a9-2f565c824086",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "questions": [
+      {
+        "id": "5219f3ce-7183-415e-a231-9b0599660ac2",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "e300ecc7-083c-4260-b019-e927675eb1a5",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "ff272d87-7aac-471a-8690-503abd576fde",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy required for all cellular activities.",
+          "energy",
+          "required"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "6e1afc78-f5b9-4004-911f-dbcde0447064",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "aa813d19-7f0b-4e61-9099-3b7a4bcb6e64",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "questions": [
+      {
+        "id": "32716dc1-1a94-411e-ac96-23ca0e2ee415",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "f96de843-1155-4566-bd8d-7e357818261a",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "Cell Division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "1a7871cb-8b16-4f4b-8255-e0b65a39448f",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "89813870-0394-42fa-84fe-8d9e4456bf76",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "2d02ce24-a77d-43cb-ae56-903ad1006914",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "questions": [
+      {
+        "id": "ac134fe3-0d59-43bc-844e-7d44c91af769",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "73496276-0455-4345-b516-8a4eda5ce248",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "ae961b58-7a8e-41e4-af48-70ed19987436",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "46639217-f76c-498f-a56e-a717db76c643",
+        "question": "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+      },
+      {
+        "id": "ff035a87-cd68-4887-b56e-7a14113d5167",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "questions": [
+      {
+        "id": "78fca37c-b76b-40a7-bd74-5684d756b4e5",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "Cell Division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "e32614cc-f48b-4642-8074-db1031e101ad",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "1ad4e194-b814-44ad-91fa-615b5d511c23",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "aa780e32-baf1-41e6-9a8b-2b57942d2159",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      },
+      {
+        "id": "b15cc4bc-3b9c-40c5-a0b5-3a634bf0d8f6",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "questions": [
+      {
+        "id": "249af2fe-f88c-4af7-8623-ed952f8eb328",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "f660acec-e821-4bf6-9a2d-f9268d4b5063",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "14efdf85-b5ac-444d-8b70-aa3c7165d349",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "f5a4c80d-c29f-4e67-bf06-062d35097ee6",
+        "question": "What is the function of an object in a straight line if acted upon by an object in a straight line?",
+        "choices": [
+          "object if it is not acted upon by an object .",
+          "object.",
+          "object"
+        ],
+        "correct_answer": "object."
+      },
+      {
+        "id": "f772ee77-c165-4af2-97ba-a327594f09ae",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "questions": [
+      {
+        "id": "3a825e60-44fd-41fd-9c37-3b7746eed123",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "cb86df69-10f8-4a63-bcd6-e8ddece46aa6",
+        "question": "What is the process by which a parent cell divides into two or more?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "cell division",
+          "cell"
+        ],
+        "correct_answer": "cell division"
+      },
+      {
+        "id": "14b4a2cc-6405-4098-a7f9-79cead16416b",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "e8017d85-bc97-407a-8bf9-4d1c12b0c532",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "7d7d1188-3c72-483d-a839-63b1557f31cc",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "questions": [
+      {
+        "id": "abccba5e-87e8-4b3f-a118-bd9b6a68a0b7",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "b8613873-1b9b-4469-aa92-e8242d7ea2c4",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      },
+      {
+        "id": "a1c53e54-a895-4580-9918-26dab2dbac9a",
+        "question": "What is the process by which a parent cell divides into two or more?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "cell division",
+          "cell"
+        ],
+        "correct_answer": "cell division"
+      },
+      {
+        "id": "4a758f0e-ef7d-4e0a-ba92-ca419f66d37a",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "f5b78939-9d50-4067-a353-fde245583153",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "questions": [
+      {
+        "id": "6feccfc5-47de-4075-ac1c-499b04521b35",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "6830de1e-cc83-4498-965f-8a1cc1c20a97",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy required for all cellular activities.",
+          "energy",
+          "required"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "4b6ab6c5-fffb-4db1-bc96-17b94dbb23e6",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "4cac3a7c-9107-45cd-ad23-2ae387164931",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "d7e16232-ef06-4585-a24a-050adab45a16",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "questions": [
+      {
+        "id": "9fec3d58-465f-4954-b782-c60dd6eb58b1",
+        "question": "Which of the following is an example of photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis"
+      },
+      {
+        "id": "8c89a0b2-7a5f-4181-8c7d-e5db1ceab406",
+        "question": "uestion",
+        "choices": [
+          "organisms",
+          "glucose",
+          "What is essential for growth, repair, and reproduction in living organisms?Options: Glucose.B Glucose.C Glucose.D Glucose.nswer:D",
+          "What"
+        ],
+        "correct_answer": "What is essential for growth, repair, and reproduction in living organisms?Options: Glucose.B Glucose.C Glucose.D Glucose.nswer:D"
+      },
+      {
+        "id": "c42d96c0-6c75-420e-ab72-d06782a1a0eb",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "0152f658-8ae9-4b5e-b04d-1ac4aae7118a",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "461f5afb-1d4a-4184-93b9-a473898d843e",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "questions": [
+      {
+        "id": "ac134e5b-49a0-48c6-9bda-b7a1bd95ec9f",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "dbe348bf-d1d0-455c-bbc1-2282a703e191",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "8a951974-a271-4e53-991b-0d1ec3280b5e",
+        "question": "Which of the following is not a sign of respiration: respiration, respiration, respiration, respiration,",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration"
+      },
+      {
+        "id": "8671143f-3ec5-41bc-b800-fc1f46ccb93c",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "47e97d91-6699-4359-a79d-1921fe65df5b",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "questions": [
+      {
+        "id": "26efc074-57c9-44e8-b5bc-159b66104dd8",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "1a4bb96a-2350-4786-8916-0742186eefdf",
+        "question": "What is the main idea of this note?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+          "What",
+          "is"
+        ],
+        "correct_answer": "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?"
+      },
+      {
+        "id": "75e7194a-785c-44fd-a264-6ee869be7bed",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "801938c2-cc85-47c9-917b-bdd39fb44dcc",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "1aa072fc-cb37-4efc-8067-5e09c3339cb1",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "questions": [
+      {
+        "id": "81adaf3e-5d72-4e4f-ba2d-c394c82a8ee7",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "Cell Division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "74f5786f-5a4e-40af-a5d4-c152b666e915",
+        "question": "What is the process by which a parent cell divides into two or more?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "cell division",
+          "cell"
+        ],
+        "correct_answer": "cell division"
+      },
+      {
+        "id": "08ec951c-a336-49cb-b9ad-cdd6f47542a1",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "a27bba90-bab8-458e-a41d-1a32b27cf04e",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "1c770f7a-8a73-4c02-9779-84da897f193e",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "questions": [
+      {
+        "id": "942deaaf-6d9b-4b3a-ad7d-f0b1f2e43ab7",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "5f584d46-3c72-4fa8-960d-e7e978aa3027",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "e27a7113-5a72-494b-bb2e-85e00d609d77",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "1271914a-e359-4d1e-bf25-e9c9e12dacae",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "05df596c-8919-4258-afc4-14f57495e739",
+        "question": "Which of the following is an example of photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "questions": [
+      {
+        "id": "d1b6b923-af76-4352-a74b-dff8171761bd",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "96d70dbd-20a5-4f3f-980c-eb3aec953c0e",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "Cell Division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "13555ef1-f470-4b18-bbbf-290e42c67d31",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "8915c7e7-e2ad-46dd-9071-b3fc47cdc669",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "9a071986-3561-4ea2-992f-8e8dc373b2c2",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "questions": [
+      {
+        "id": "ba24b44a-f380-4c45-8faa-45e30a78e343",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "89c243f6-c3c2-4a67-9dca-cf4bb01e3252",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "67836a30-a4d9-4851-a4fc-cc7bf5646230",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "00e8db6a-b478-41cd-bcbd-f46beacc1614",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "2969af47-b1c3-4457-8700-fdd9727c304a",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "questions": [
+      {
+        "id": "92ca3161-7cc6-42cb-88f6-c64a5ae7982e",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "f0604bde-8d23-406f-8bb9-1b431742b9d2",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "beca0ab9-7fbf-4382-940f-b5e847102442",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "a9305be5-6217-4e76-8662-e54ba2a044a9",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "Cell Division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "3e92d965-820e-454c-8b52-b3d4ba530102",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "questions": [
+      {
+        "id": "a07c28c5-42c8-404f-8169-dc972624d9ed",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "f3a00bb8-dfdd-4672-8b6e-7140e6a81e12",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "851e9fe8-0869-4bd7-9e18-4ba4753c0b5e",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "26b3f798-58c3-4d79-9a71-271adacd3484",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "623026fc-0ce3-4fde-9d3a-2134dcce0801",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "questions": [
+      {
+        "id": "04dcac1e-7222-48d1-938b-6e6252c66f2b",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "e489a619-c4ee-4ca6-8b81-7b300d432694",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "3da4cdc5-bc35-47fb-a692-3541587fb9bc",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "b4297b64-ae02-4eed-b088-8706445208ec",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "26f264b9-56c9-4fa5-ba52-14cc93ce2400",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "questions": [
+      {
+        "id": "400e25d2-1b00-4dda-9f73-1e9d1b9048f5",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "32c2895b-4556-4d05-a3b2-a35d0f01678f",
+        "question": "ATP is a measure of what kind of waste?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "6cdf7a28-457d-48bd-ad00-af43ab13c0aa",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "82987e61-b902-4f17-9391-a31ca233bed4",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "d2786713-6ef0-4413-a16f-6ede1c8180fe",
+        "question": "Which of the following statements is true about the acceleration of an object?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The",
+          "acceleration"
+        ],
+        "correct_answer": "The acceleration of an object depends on the net force acting upon it and the object's mass."
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "questions": [
+      {
+        "id": "9f7be221-d141-4102-90d5-7b9f7e15d723",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "b36408a2-3fdf-4467-88eb-5339a313797c",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "ff75e039-fe4c-48d4-9552-4a638e679522",
+        "question": "Which of the following statements is true about the acceleration of an object?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The",
+          "acceleration"
+        ],
+        "correct_answer": "The acceleration of an object depends on the net force acting upon it and the object's mass."
+      },
+      {
+        "id": "5e9a1813-840f-4193-b61c-555473790193",
+        "question": "What is the difference between an object and an external force?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The",
+          "acceleration"
+        ],
+        "correct_answer": "The acceleration of an object depends on the net force acting upon it and the object's mass."
+      },
+      {
+        "id": "30e9aa6d-a356-4c66-aa84-f9c757dceee3",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "questions": [
+      {
+        "id": "7593ead3-0aee-4e0a-81b9-fa7b2d455094",
+        "question": "What is the mass of an object?",
+        "choices": [
+          "object.",
+          "force of gravity being exerted upon it.",
+          "mass"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "id": "81028101-b58b-424e-8d45-d28720d4f9d3",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "e7699e79-64df-4114-9971-5a69374ec929",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "1ef0ed53-61bf-4c69-b32e-890c97c4663e",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "8ea5dfba-d4ed-4de2-9e50-1de6dbb513bd",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "questions": [
+      {
+        "id": "4d85abde-fdc5-4a8f-b58e-ddc8aebcfc93",
+        "question": "Which of the following statements is true about the acceleration of an object?",
+        "choices": [
+          "force of gravity being exerted upon it.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "The",
+          "acceleration"
+        ],
+        "correct_answer": "The acceleration of an object depends on the net force acting upon it and the object's mass."
+      },
+      {
+        "id": "cea08087-5bbd-40c8-939c-3ae01a592bb5",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "775a0e74-fb36-48b5-bd29-71ff7eb83d26",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "ee5f49d7-9d00-4278-9167-a4f4d3525090",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "4c927f4e-e5fd-4e79-9c44-8fafd7ccdf71",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy required for all cellular activities.",
+          "energy",
+          "required"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "questions": [
+      {
+        "id": "fe606285-b17f-4b11-ba02-df482d05285a",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "8c948bac-19c9-4b79-b54e-aa0e3c2fbfd8",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "48611c11-445b-4207-b5b2-f8e72699590e",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "41f537b3-8d8a-40ee-8cef-62e9b3e96f14",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "00f507d6-642e-42f6-bdb7-3df406896986",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "questions": [
+      {
+        "id": "81a3e42c-4932-4866-a4c9-2531a65636b5",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "f668a8e9-10ef-4c92-a1fd-0179dfa34e09",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "e2ef2dd4-4ecf-46c2-87d1-480c23a3c288",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "11bac5e4-317a-4033-81ac-cfc3bd9d4670",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "97d8a0be-25a2-411a-a620-1c46312bbfd0",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "questions": [
+      {
+        "id": "8aead868-7199-4ae7-8089-dcc00a717ec8",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "db26e0cf-9323-4d66-b1cf-95f160f7028a",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "25a7046d-bd67-4f6b-be32-d0daaf8b8e73",
+        "question": "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+      },
+      {
+        "id": "4132f38e-8469-420b-9c9e-a69dedb7c3cb",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "1d4e61c2-6b6e-4dda-b2e9-f231fc04880c",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "questions": [
+      {
+        "id": "4ef9cf7e-bb92-4708-bb53-040459d5f873",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "db0c9d2b-a223-431b-aa06-06c70554defe",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "14626607-b085-40a0-b881-c35664cb4bf9",
+        "question": "What is the mass of an object?",
+        "choices": [
+          "object.",
+          "force of gravity being exerted upon it.",
+          "mass"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "id": "e6e45405-f598-4469-9651-2e078c55865e",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "0dba8bf6-1459-4290-9af7-af911ef6e85d",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "questions": [
+      {
+        "id": "98142cc8-8a54-4154-bd21-3bc748765076",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "2d1e833d-0b2e-4b8e-abf1-af1e71709e83",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "87db2584-5166-474c-8d15-24141f489fd5",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "639cf993-6393-4187-91c2-efcb652216ec",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "f82076bf-85d0-4801-ad85-60b521a818a8",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "questions": [
+      {
+        "id": "69c3d8c1-9dc3-4a8b-af5b-f5a2ede25cd6",
+        "question": "ATP is a measure of what kind of waste?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "e7cc62e1-0944-4d0f-ad2c-818cea3f4469",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "923c68dc-480c-4762-969c-7826ce041e1b",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "98957a2d-215b-499a-b959-731756949ea1",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      },
+      {
+        "id": "1f6881a0-9dea-4b73-a7b3-2fa6d844a419",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "questions": [
+      {
+        "id": "513554a5-f8e7-4862-9fa0-ec738a4bbda3",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "1c9c9a62-d2ec-44b4-91f1-bcfbec916714",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "048b3f63-cb73-49f3-83fd-f1693698b0b1",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cell division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "c6f29b7c-6950-4811-883c-dfb59a142d2d",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "d89f1938-3ab4-47d5-96b6-eedfda5f268b",
+        "question": "What is the function of an object in a straight line if acted upon by an object in a straight line?",
+        "choices": [
+          "object if it is not acted upon by an object .",
+          "object.",
+          "object"
+        ],
+        "correct_answer": "object."
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "questions": [
+      {
+        "id": "3f4b5edc-5351-4022-854d-c2fb428873b8",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      },
+      {
+        "id": "67b92614-e139-402d-a4fc-ff3ac69e6454",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "709da865-9a7e-49e6-ac14-f89ea9c434ae",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "b406b1b1-701a-4ef6-9589-b36915241d09",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "8f6988e8-8a23-4ab9-adaa-d53ec3ad9f05",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "questions": [
+      {
+        "id": "c2431b72-f714-472a-b277-c44ac5bc759e",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "e18c2142-0bcd-4a7c-ad4b-96751ec4e82d",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "97c9a041-2b81-41f9-872b-b7651909d4e2",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "b8470f10-43ed-4221-8a01-35c2c99b77f6",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "56f5b993-ff61-4820-af69-a1a612916868",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "questions": [
+      {
+        "id": "f8515fe7-3074-4cee-9102-017030cea2a2",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "8084774e-d319-404d-9062-f13dc72a9c33",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "ff657179-8dd1-4999-8996-719ada5f1155",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "b873e19a-065b-4f8e-ad66-276b5b837cf7",
+        "question": "What is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product."
+      },
+      {
+        "id": "44d1d5b4-91c6-416e-a536-d5f32f69b130",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "questions": [
+      {
+        "id": "1f032386-99e1-4f6c-99c6-d829bbbb063a",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "bc1e10cd-b8e8-46fb-b44c-f2e59281c5d4",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "6821456e-c5ac-4133-aa00-2c3cbd402173",
+        "question": "What is the study of the cell division?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell Division",
+          "Cell"
+        ],
+        "correct_answer": "Cell Division"
+      },
+      {
+        "id": "c9786d6b-1692-4a16-b417-4255b6def3f1",
+        "question": "What is the process by which a parent cell divides into two or more?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "cell division",
+          "cell"
+        ],
+        "correct_answer": "cell division"
+      },
+      {
+        "id": "f0c33eed-d3a9-4bd1-b9be-b6c55e48218d",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "questions": [
+      {
+        "id": "29ed683d-684a-4307-be71-06265fd60b50",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "58118797-ed89-4d7d-b0c3-2a44e6ebeb41",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "1643c0dc-e0fa-4f5f-9ef4-7fa43e00dcff",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "4e147785-8042-487b-b44d-7dbd3f36b7bf",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "a91961a4-c9b9-48f8-b5a2-144343474de2",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "questions": [
+      {
+        "id": "4e080b96-0afa-4841-a0c8-328274517032",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "c80cc92a-34f4-4c93-93b6-6d6a7fe72909",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "541e6275-233d-434c-8428-9b541fa689d8",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "c4a72f7d-d2f9-4f49-92db-19b6311a483d",
+        "question": "What is a characteristic of a living organism?",
+        "choices": [
+          "object.",
+          "cells",
+          "organisms"
+        ],
+        "correct_answer": "organisms"
+      },
+      {
+        "id": "855a402b-c5cd-480c-8a96-5dfd6536f04e",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "questions": [
+      {
+        "id": "4c54bdb4-c528-41c4-b4ab-3f26a7cc9161",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "c62b6255-9464-42cf-bf41-8eb396a86b4a",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "9dd90faf-2613-47d6-89c0-041f7c6eb618",
+        "question": "What is Respiration?",
+        "choices": [
+          "Respiration",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "14513f2f-06a4-4aae-b4d8-36c4eaeee884",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "d440bfbd-8a16-41ed-a91a-2a837b436f82",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "questions": [
+      {
+        "id": "35aa6c56-81d1-418d-98eb-08d0f81a8ea1",
+        "question": "What is the process of releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "ATP"
+        ],
+        "correct_answer": "ATP"
+      },
+      {
+        "id": "8f3b8a2b-db10-41c4-9a67-a3a359a6846a",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "e3b72e77-8d01-4241-a8c4-95416a8395ce",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "212e0974-3316-4d0d-88fa-5df4d3789c78",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      },
+      {
+        "id": "f49be97f-50ac-44fd-84fb-51c9eeab6096",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "questions": [
+      {
+        "id": "293f7c28-41d0-4af0-b7a4-abce2946e75d",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "e533582d-ce0a-4d36-89a4-50169dbb39e8",
+        "question": "What is the effect of the acceleration of an object?",
+        "choices": [
+          "external force",
+          "Newton\u2019s Laws of Motion",
+          "force of gravity being exerted upon it.",
+          "force"
+        ],
+        "correct_answer": "force of gravity being exerted upon it."
+      },
+      {
+        "id": "06c61945-9444-432f-93a3-4d5341639061",
+        "question": "What is the mass of an object?",
+        "choices": [
+          "object.",
+          "force of gravity being exerted upon it.",
+          "mass"
+        ],
+        "correct_answer": "mass"
+      },
+      {
+        "id": "0e6cffa4-c4b1-44a7-b09c-97747064d25a",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "df26f3c6-99dd-4c48-9608-4c671390d7f1",
+        "question": "What is the difference between a positive and negative reaction?",
+        "choices": [
+          "2",
+          "3.",
+          "3"
+        ],
+        "correct_answer": "3."
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "questions": [
+      {
+        "id": "43c5386a-f9d2-4977-9b35-652ce1f5bc86",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "544b238b-30a9-4f03-bd34-83b86d9ddc64",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "87339ce4-53ba-4bda-9b95-c0781af83144",
+        "question": "What is Newton\u2019s Laws of Motion?",
+        "choices": [
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion"
+      },
+      {
+        "id": "82bcc113-51da-4513-b2e3-18a8ba87b2e7",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      },
+      {
+        "id": "dc9e4742-b23a-4bc9-a75f-7e1075d9a95c",
+        "question": "What is 1?",
+        "choices": [
+          "2",
+          "1"
+        ],
+        "correct_answer": "1"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "questions": [
+      {
+        "id": "a6d82859-6f5f-4223-a6ba-3c07cf55f304",
+        "question": "What is energy (ATP), releasing carbon dioxide and water as waste products?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy",
+          "ATP"
+        ],
+        "correct_answer": "energy (ATP), releasing carbon dioxide and water as waste products"
+      },
+      {
+        "id": "445b553f-d3c0-4159-ba91-96b4452911f8",
+        "question": "Which of the following is not a sign of respiration: respiration, respiration, respiration, respiration,",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "Respiration"
+        ],
+        "correct_answer": "Respiration"
+      },
+      {
+        "id": "2635f11e-25a3-4f46-9c66-ad48881cb713",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "b331a7a7-6058-43d1-b8b6-94aad16556f8",
+        "question": "What is chlorophyll used for?",
+        "choices": [
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "chlorophyll"
+        ],
+        "correct_answer": "chlorophyll"
+      },
+      {
+        "id": "267f3b73-c171-42a1-9adc-b67f8ada85a1",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "questions": [
+      {
+        "id": "af3d99b7-e53e-43dd-bd3c-76789c558e9a",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "d71a248d-36db-468c-904b-214a2933b8ee",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "a08786d9-3740-45ab-bb5c-43d06ac37995",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "0fe45b4f-069e-4476-9ef3-e0b22e6c1c3f",
+        "question": "What is a process in which cells convert glucose and oxygen into glucose?",
+        "choices": [
+          "Respiration is a biological process in which cells convert glucose and oxygen into energy (ATP), releasing carbon dioxide and water as waste products",
+          "glucose"
+        ],
+        "correct_answer": "glucose"
+      },
+      {
+        "id": "1775aa52-9239-49cb-b32c-6f9ee75019f4",
+        "question": "What is the process by which green plants and some other organisms use photosynthesis?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "photosynthesis"
+        ],
+        "correct_answer": "photosynthesis"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "questions": [
+      {
+        "id": "9d0d3bc7-7b8d-45fa-95d4-0fed72898965",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "ed4b2e5e-6b4b-4345-a14d-c7580016dfdc",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "44931efc-3efa-4e09-811d-4417e28f9a08",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "d22fb2e6-3f40-48e3-980d-6da7bfda4599",
+        "question": "What is Photosynthesis Photosynthesis is the process by which green plants and?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "Photosynthesis"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "1d424d5c-57a2-4855-b898-1f02dc012d29",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "questions": [
+      {
+        "id": "eb2469c3-8e42-409f-9a9a-ddde562a3569",
+        "question": "What is required for all cellular activities?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "energy required for all cellular activities.",
+          "energy",
+          "required"
+        ],
+        "correct_answer": "energy required for all cellular activities."
+      },
+      {
+        "id": "11b909fc-3e00-4758-aafb-b1b1b0b0f061",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      },
+      {
+        "id": "0460d339-2d1f-4a14-bb9b-fe22392ef42c",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "cba0c1a8-a2e0-4225-a69e-b91e23cc8b65",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      },
+      {
+        "id": "e8f9c853-13e7-42f0-ba0c-489ae7e5c323",
+        "question": "What is the study of the cell division?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell Division",
+          "Cell"
+        ],
+        "correct_answer": "Cell Division"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "questions": [
+      {
+        "id": "937676f6-4cee-40fa-9997-bc0d07c6a9db",
+        "question": "What is Cell?",
+        "choices": [
+          "Cell division is the process by which a parent cell divides into two or more daughter cells.",
+          "cell division",
+          "Cell division is the process by which a parent cell divides into two or more daughter cells",
+          "Cell"
+        ],
+        "correct_answer": "Cell division is the process by which a parent cell divides into two or more daughter cells."
+      },
+      {
+        "id": "c5d6b6af-34ae-44ed-a8aa-8bd74bda7b07",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "b1c9c5ac-8326-42b2-a576-65d80751fca7",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "74a86701-cf31-4dec-a5c6-fda8bd1cd77e",
+        "question": "What does a person do when he or she is resting?",
+        "choices": [
+          "object.",
+          "The acceleration of an object depends on the net force acting upon it and the object's mass.",
+          "object if it is not acted upon by an object .",
+          "object"
+        ],
+        "correct_answer": "object if it is not acted upon by an object ."
+      },
+      {
+        "id": "7a694bb8-9a2c-4418-854a-6cc2f12739c8",
+        "question": "What is Newton\u2019s Laws of Motion 1?",
+        "choices": [
+          "Newton\u2019s Laws of Motion",
+          "Newton\u2019s Laws of Motion 1",
+          "Newton\u2019s",
+          "Laws"
+        ],
+        "correct_answer": "Newton\u2019s Laws of Motion 1"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "questions": [
+      {
+        "id": "2afbe4b4-6935-45d9-a9a8-807d2831de67",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cell division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "85bc1822-350c-40f8-98b2-fd081dd569f8",
+        "question": "ATP is used for what type of waste products?",
+        "choices": [
+          "energy (ATP), releasing carbon dioxide and water as waste products",
+          "carbon dioxide and water as waste products",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water as waste products"
+      },
+      {
+        "id": "0ab2685a-7aed-4b18-b210-bb785bf16a74",
+        "question": "carbon dioxide and water to synthesize what?",
+        "choices": [
+          "carbon dioxide and water as waste products",
+          "carbon dioxide and water",
+          "carbon",
+          "dioxide"
+        ],
+        "correct_answer": "carbon dioxide and water"
+      },
+      {
+        "id": "95ae5781-4c40-4a61-9493-7b5039582187",
+        "question": "What is green pigment chlorophyll and generates oxygen as a by-product?",
+        "choices": [
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It usually involves the green pigment chlorophyll and generates oxygen as a by-product.",
+          "chlorophyll",
+          "green pigment chlorophyll and generates oxygen as a by-product",
+          "green"
+        ],
+        "correct_answer": "green pigment chlorophyll and generates oxygen as a by-product"
+      },
+      {
+        "id": "347e8a58-297a-409e-a964-4939ae90d16a",
+        "question": "What is daughter cells?",
+        "choices": [
+          "cells",
+          "daughter cells",
+          "daughter",
+          "cells"
+        ],
+        "correct_answer": "daughter cells"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "questions": [
+      {
+        "id": "a7e1d075-4879-4a5a-8769-f103f6dd70d3",
+        "question": "What is essential for growth, repair, and reproduction in living cells?",
+        "choices": [
+          "cell division",
+          "cells"
+        ],
+        "correct_answer": "cells"
+      },
+      {
+        "id": "40c2291a-76b5-4125-97a2-69ab62bb0e02",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "e3cf69bc-f365-46f9-b569-19d66cabe7e9",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      },
+      {
+        "id": "418b3d3d-63f2-4643-a061-5a35ac15af32",
+        "question": "What is Photosynthesis?",
+        "choices": [
+          "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water",
+          "Photosynthesis",
+          "is"
+        ],
+        "correct_answer": "Photosynthesis Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water"
+      },
+      {
+        "id": "8d62e775-466b-41f8-81aa-d39d94ae65ff",
+        "question": "What is 2?",
+        "choices": [
+          "1",
+          "2"
+        ],
+        "correct_answer": "2"
+      }
+    ]
+  }
+]

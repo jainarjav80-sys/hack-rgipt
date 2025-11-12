@@ -1,0 +1,18 @@
+Photosynthesis
+Photosynthesis is the process by which green plants and some other organisms use 
+sunlight to synthesize foods from carbon dioxide and water. It usually involves the
+green pigment chlorophyll and generates oxygen as a by-product.
+Cell Division
+Cell division is the process by which a parent cell divides into two or more 
+daughter cells. It is essential for growth, repair, and reproduction in living 
+organisms.
+Respiration
+Respiration is a biological process in which cells convert glucose and oxygen into 
+energy (ATP), releasing carbon dioxide and water as waste products. It provides the
+energy required for all cellular activities.
+Newton’s Laws of Motion
+1. An object will remain at rest or move in a straight line unless acted upon by an
+external force.
+2. The acceleration of an object depends on the net force acting upon it and the 
+object's mass.
+3. For every action, there is an equal and opposite reaction.
